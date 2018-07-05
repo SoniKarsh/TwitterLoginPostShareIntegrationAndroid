@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TwitterLoginIntegration</string>
+    <string name="com.twitter.sdk.android.CONSUMER_KEY"> vQ8rBbQgGxFPlbtMfkJH34Iqg</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET"> 7xwe1LGtVCZONetcHWwpNIoeq3DA3FUZWFaaCriF1osqZq2DbP</string>
+    <string name="welcome_home_screen">Welcome Home Screen</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="twitter_profile_image">Twitter Profile Image</string>
+</resources>
